@@ -59,14 +59,13 @@ The plugin uses a proxy (located in the `prismic-proxy/` folder) to securely and
 - If you deploy your own proxy, update the proxy URL in `src/code.ts` accordingly.
 
 ## Technologies Used
-
 - [Figma Plugin API](https://www.figma.com/plugin-docs/intro/)
 - [Prismic CMS](https://prismic.io)
+- [Vercel](https://vercel.com/)
 - [Webpack](https://webpack.js.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
 ## License
-
 This project is licensed under the MIT License – see the [LICENCE](LICENCE) file for details.
 
 
